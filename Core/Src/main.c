@@ -121,7 +121,6 @@ int main(void)
   uint8_t str1[] = "1234567890123456789\r\n\0";
   uint8_t str2[] = "1234567890123456789\r\n\0";
 
-
 //start of an infinite loop
   while (1)
   {
