@@ -1,0 +1,1 @@
+My workspace C:\ST\STM32CubeIDE_1.8.0\workspace\
