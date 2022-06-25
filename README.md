@@ -24,4 +24,5 @@ Implemented in the starter project: <br>
 blinking LEDs, <br>
 polling the button <br>
 polls all ADC inputs via DMA (all their values ​​are visible on the monitor in debug mode) <br>
-outputs to the uart the values ​​of all ADC inputs in turn. <br>
+outputs to the uart the values ​​of all ADC inputs in turn. <br> 
+![Screenshot](glo21.gif?raw=true "Screenshot")
